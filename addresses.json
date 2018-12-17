@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Bye-Bye Gloves",
+        "value": 570778705,
+        "length": 1
+    },
+    {
+        "name": "Softener Gloves",
+        "value": 570778706,
+        "length": 1
+    },
+    {
+        "name": "Item Gloves",
+        "value": 570778707,
+        "length": 1
+    },
+    {
+        "name": "Siphon Gloves",
+        "value": 570778708,
+        "length": 1
+    },
+    {
+        "name": "Dent Gloves",
+        "value": 570778709,
+        "length": 1
+    },
+    {
+        "name": "POW Boots",
+        "value": 570778710,
+        "length": 1
+    },
+    {
+        "name": "DX POW Boots",
+        "value": 570778711,
+        "length": 1
+    },
+    {
+        "name": "Tip-Top Boots",
+        "value": 570778712,
+        "length": 1
+    },
+    {
+        "name": "Special Boots",
+        "value": 570778713,
+        "length": 1
+    },
+    {
+        "name": "Heavy Boots",
+        "value": 570778714,
+        "length": 1
+    },
+    {
+        "name": "Daredevil Boots",
+        "value": 570778715,
+        "length": 1
+    },
+    {
+        "name": "Shell Boots",
+        "value": 570778716,
+        "length": 1
+    },
+    {
+        "name": "Dizzy Boots",
+        "value": 570778717,
+        "length": 1
+    },
+    {
+        "name": "Shroob Boots",
+        "value": 570778718,
+        "length": 1
+    },
+    {
+        "name": "Coin Boots",
+        "value": 570778719,
+        "length": 1
+    },
+    {
+        "name": "Siphon Boots",
+        "value": 570778720,
+        "length": 1
+    },
+    {
+        "name": "Big Stomp Boots",
+        "value": 570778721,
+        "length": 1
+    },
+    {
+        "name": "Happy Charm",
+        "value": 570778722,
+        "length": 1
+    },
+    {
+        "name": "Luck Charm",
+        "value": 570778723,
+        "length": 1
+    },
+    {
+        "name": "Thrift Charm",
+        "value": 570778724,
+        "length": 1
+    },
+    {
+        "name": "Budget Charm",
+        "value": 570778725,
+        "length": 1
+    },
+    {
+        "name": "Tight Belt",
+        "value": 570778726,
+        "length": 1
+    },
+    {
+        "name": "Advice Patch",
+        "value": 570778727,
+        "length": 1
+    },
+    {
+        "name": "Luxury Patch",
+        "value": 570778728,
+        "length": 1
+    },
+    {
+        "name": "Heroic Charm",
+        "value": 570778729,
+        "length": 1
+    },
+    {
+        "name": "Small Shell",
+        "value": 570778730,
+        "length": 1
+    },
+    {
+        "name": "Big Shell",
+        "value": 570778731,
+        "length": 1
+    },
+    {
+        "name": "Giant Shell",
+        "value": 570778732,
+        "length": 1
+    },
+    {
+        "name": "KO Shell",
+        "value": 570778733,
+        "length": 1
+    },
+    {
+        "name": "Gold Ring",
+        "value": 570778734,
+        "length": 1
+    },
+    {
+        "name": "Gold Crown",
+        "value": 570778735,
+        "length": 1
+    },
+    {
+        "name": "Lazy Scarf",
+        "value": 570778736,
+        "length": 1
+    },
+    {
+        "name": "Mushroom Stone",
+        "value": 570778737,
+        "length": 1
+    },
+    {
+        "name": "POW Mush Jam",
+        "value": 570778738,
+        "length": 1
+    },
+    {
+        "name": "DEF Mush Jam",
+        "value": 570778739,
+        "length": 1
+    },
+    {
+        "name": "Treasure Specs",
+        "value": 570778740,
+        "length": 1
+    },
+    {
+        "name": "Vengeance Cape",
+        "value": 570778741,
+        "length": 1
+    },
+    {
+        "name": "Challenge Medal",
+        "value": 570778742,
+        "length": 1
+    },
+    {
+        "name": "Shabby Shell",
+        "value": 570778743,
+        "length": 1
+    },
+    {
+        "name": "Special Shell",
+        "value": 570778744,
+        "length": 1
+    },
+    {
+        "name": "Safety Shell",
+        "value": 570778745,
+        "length": 1
+    },
+    {
+        "name": "Judge Shell",
+        "value": 570778746,
+        "length": 1
+    },
+    {
+        "name": "Rock Shell",
+        "value": 570778747,
+        "length": 1
+    },
+    {
+        "name": "Armored Shell",
+        "value": 570778748,
+        "length": 1
+    },
+    {
+        "name": "Rampage Shell",
+        "value": 570778749,
+        "length": 1
+    },
+    {
+        "name": "Dream Shell",
+        "value": 570778750,
+        "length": 1
+    },
+    {
+        "name": "Wicked Shell",
+        "value": 570778751,
+        "length": 1
+    },
+    {
+        "name": "Ironclad Shell",
+        "value": 570778752,
+        "length": 1
+    },
+    {
+        "name": "Block Ring",
+        "value": 570778753,
+        "length": 1
+    },
+    {
+        "name": "King Shell",
+        "value": 570778754,
+        "length": 1
+    },
+    {
+        "name": "Power Band",
+        "value": 570778755,
+        "length": 1
+    },
+    {
+        "name": "Power Band +",
+        "value": 570778756,
+        "length": 1
+    },
+    {
+        "name": "Minion Band",
+        "value": 570778757,
+        "length": 1
+    },
+    {
+        "name": "Minion Band SP",
+        "value": 570778758,
+        "length": 1
+    },
+    {
+        "name": "Iron Fist Band",
+        "value": 570778759,
+        "length": 1
+    },
+    {
+        "name": "Vampire Band",
+        "value": 570778760,
+        "length": 1
+    },
+    {
+        "name": "Stamina Band",
+        "value": 570778761,
+        "length": 1
+    },
+    {
+        "name": "Hunter Band",
+        "value": 570778762,
+        "length": 1
+    },
+    {
+        "name": "Lucky Band",
+        "value": 570778763,
+        "length": 1
+    },
+    {
+        "name": "Block Band",
+        "value": 570778764,
+        "length": 1
+    },
+    {
+        "name": "Fury Band",
+        "value": 570778765,
+        "length": 1
+    },
+    {
+        "name": "10% Power Fangs",
+        "value": 570778766,
+        "length": 1
+    },
+    {
+        "name": "20% Power Fangs",
+        "value": 570778767,
+        "length": 1
+    },
+    {
+        "name": "20% Special Fangs",
+        "value": 570778768,
+        "length": 1
+    },
+    {
+        "name": "40% Special Fangs",
+        "value": 570778769,
+        "length": 1
+    },
+    {
+        "name": "Red-Hot Fangs",
+        "value": 570778770,
+        "length": 1
+    },
+    {
+        "name": "Burning Fangs",
+        "value": 570778771,
+        "length": 1
+    },
+    {
+        "name": "Fury Fangs",
+        "value": 570778772,
+        "length": 1
+    },
+    {
+        "name": "Bone Fangs",
+        "value": 570778773,
+        "length": 1
+    },
+    {
+        "name": "Intruder Fangs",
+        "value": 570778774,
+        "length": 1
+    },
+    {
+        "name": "Block Fangs",
+        "value": 570778775,
+        "length": 1
+    },
+    {
+        "name": "Flashy Fangs",
+        "value": 570778776,
+        "length": 1
+    },
+    {
+        "name": "Cheap Ring",
+        "value": 570778777,
+        "length": 1
+    },
+    {
+        "name": "Economy Ring",
+        "value": 570778778,
+        "length": 1
+    },
+    {
+        "name": "Heroic Ring",
+        "value": 570778779,
+        "length": 1
+    },
+    {
+        "name": "Glutton Ring",
+        "value": 570778780,
+        "length": 1
+    },
+    {
+        "name": "Excellent Ring",
+        "value": 570778781,
+        "length": 1
+    },
+    {
+        "name": "Drumstick Ring",
+        "value": 570778782,
+        "length": 1
+    },
+    {
+        "name": "Peace Ring",
+        "value": 570778783,
+        "length": 1
+    },
+    {
+        "name": "Fill-Up Ring",
+        "value": 570778784,
+        "length": 1
+    },
+    {
+        "name": "Restore Ring",
+        "value": 570778785,
+        "length": 1
+    },
+    {
+        "name": "Fast Cash Ring",
+        "value": 570778786,
+        "length": 1
+    },
+    {
+        "name": "Treasure Ring",
+        "value": 570778787,
+        "length": 1
+    },
+    {
+        "name": "Safety Ring",
+        "value": 570778788,
+        "length": 1
+    },
+    {
+        "name": "Hard Ring",
+        "value": 570778789,
+        "length": 1
+    },
+    {
+        "name": "Rental Shell",
+        "value": 570778790,
+        "length": 1
+    },
+    {
+        "name": "Mario Max HP",
+        "value": 302343038,
+        "length": 2
+    },
+    {
+        "name": "Mario HP",
+        "value": 302343040,
+        "length": 2
+    },
+    {
+        "name": "Mario Max SP",
+        "value": 302343042,
+        "length": 2
+    },
+    {
+        "name": "Mario SP",
+        "value": 302343044,
+        "length": 2
+    },
+    {
+        "name": "Mario POW",
+        "value": 302343046,
+        "length": 2
+    },
+    {
+        "name": "Mario DEF",
+        "value": 302343048,
+        "length": 2
+    },
+    {
+        "name": "Mario SPEED",
+        "value": 302343050,
+        "length": 2
+    },
+    {
+        "name": "Mario STACHE",
+        "value": 302343052,
+        "length": 2
+    },
+    {
+        "name": "Luigi Max HP",
+        "value": 302343086,
+        "length": 2
+    },
+    {
+        "name": "Luigi HP",
+        "value": 302343088,
+        "length": 2
+    },
+    {
+        "name": "Luigi Max SP",
+        "value": 302343090,
+        "length": 2
+    },
+    {
+        "name": "Luigi SP",
+        "value": 302343092,
+        "length": 2
+    },
+    {
+        "name": "Luigi POW",
+        "value": 302343094,
+        "length": 2
+    },
+    {
+        "name": "Luigi DEF",
+        "value": 302343096,
+        "length": 2
+    },
+    {
+        "name": "Luigi SPEED",
+        "value": 302343098,
+        "length": 2
+    },
+    {
+        "name": "Luigi STACHE",
+        "value": 302343100,
+        "length": 2
+    },
+    {
+        "name": "Bowser Max HP",
+        "value": 302343134,
+        "length": 2
+    },
+    {
+        "name": "Bowser HP",
+        "value": 302343136,
+        "length": 2
+    },
+    {
+        "name": "Bowser Max SP",
+        "value": 302343138,
+        "length": 2
+    },
+    {
+        "name": "Bowser SP",
+        "value": 302343140,
+        "length": 2
+    },
+    {
+        "name": "Bowser POW",
+        "value": 302343142,
+        "length": 2
+    },
+    {
+        "name": "Bowser DEF",
+        "value": 302343144,
+        "length": 2
+    },
+    {
+        "name": "Bowser SPEED",
+        "value": 302343146,
+        "length": 2
+    },
+    {
+        "name": "Bowser HORN",
+        "value": 302343148,
+        "length": 2
+    },
+    {
+        "name": "Mushrooms",
+        "value": 570778630,
+        "length": 1
+    },
+    {
+        "name": "Super Mushrooms",
+        "value": 570778631,
+        "length": 1
+    },
+    {
+        "name": "Ultra Mushrooms",
+        "value": 570778632,
+        "length": 1
+    },
+    {
+        "name": "Max Mushrooms",
+        "value": 570778633,
+        "length": 1
+    },
+    {
+        "name": "Hot Drumsticks",
+        "value": 570778634,
+        "length": 1
+    },
+    {
+        "name": "Fiery Drumsticks",
+        "value": 570778635,
+        "length": 1
+    },
+    {
+        "name": "TNT Drumsticks",
+        "value": 570778636,
+        "length": 1
+    },
+    {
+        "name": "Nuts",
+        "value": 570778637,
+        "length": 1
+    },
+    {
+        "name": "Super Nuts",
+        "value": 570778638,
+        "length": 1
+    },
+    {
+        "name": "Ultra Nuts",
+        "value": 570778639,
+        "length": 1
+    },
+    {
+        "name": "Max Nuts",
+        "value": 570778640,
+        "length": 1
+    },
+    {
+        "name": "Syrup Jars",
+        "value": 570778641,
+        "length": 1
+    },
+    {
+        "name": "Supersyrup Jars",
+        "value": 570778642,
+        "length": 1
+    },
+    {
+        "name": "Ultrasyrup Jars",
+        "value": 570778643,
+        "length": 1
+    },
+    {
+        "name": "Max Syrup Jars",
+        "value": 570778644,
+        "length": 1
+    },
+    {
+        "name": "Star Candies",
+        "value": 570778645,
+        "length": 1
+    },
+    {
+        "name": "1-Up Mushrooms",
+        "value": 570778646,
+        "length": 1
+    },
+    {
+        "name": "1-Up Deluxes",
+        "value": 570778647,
+        "length": 1
+    },
+    {
+        "name": "Refreshing Herbs",
+        "value": 570778648,
+        "length": 1
+    },
+    {
+        "name": "Heart Beans",
+        "value": 570778650,
+        "length": 1
+    },
+    {
+        "name": "Special Beans",
+        "value": 570778651,
+        "length": 1
+    },
+    {
+        "name": "Power Beans",
+        "value": 570778652,
+        "length": 1
+    },
+    {
+        "name": "Retry Clocks",
+        "value": 570778653,
+        "length": 1
+    },
+    {
+        "name": "Thin Wear",
+        "value": 33907751,
+        "length": 1
+    },
+    {
+        "name": "Picnic Wear",
+        "value": 33907752,
+        "length": 1
+    },
+    {
+        "name": "Leisure Pants",
+        "value": 570778665,
+        "length": 1
+    },
+    {
+        "name": "Fighter Wear",
+        "value": 570778666,
+        "length": 1
+    },
+    {
+        "name": "Heart Wear",
+        "value": 570778667,
+        "length": 1
+    },
+    {
+        "name": "Brawny Wear",
+        "value": 570778668,
+        "length": 1
+    },
+    {
+        "name": "Grown-Up Wear",
+        "value": 570778669,
+        "length": 1
+    },
+    {
+        "name": "Koopa Wear",
+        "value": 570778670,
+        "length": 1
+    },
+    {
+        "name": "Hero Wear",
+        "value": 570778671,
+        "length": 1
+    },
+    {
+        "name": "Balm Wear",
+        "value": 570778672,
+        "length": 1
+    },
+    {
+        "name": "Muscle Wear",
+        "value": 570778673,
+        "length": 1
+    },
+    {
+        "name": "Master Wear",
+        "value": 570778674,
+        "length": 1
+    },
+    {
+        "name": "King Wear",
+        "value": 570778675,
+        "length": 1
+    },
+    {
+        "name": "Star Wear",
+        "value": 570778676,
+        "length": 1
+    },
+    {
+        "name": "D-Star Wear",
+        "value": 570778677,
+        "length": 1
+    },
+    {
+        "name": "A-OK Wear",
+        "value": 570778678,
+        "length": 1
+    },
+    {
+        "name": "Rental Wear",
+        "value": 570778679,
+        "length": 1
+    },
+    {
+        "name": "HP Socks",
+        "value": 570778680,
+        "length": 1
+    },
+    {
+        "name": "Deluxe HP Socks",
+        "value": 570778681,
+        "length": 1
+    },
+    {
+        "name": "SP Socks",
+        "value": 570778682,
+        "length": 1
+    },
+    {
+        "name": "DX SP Socks",
+        "value": 570778683,
+        "length": 1
+    },
+    {
+        "name": "Hustle Socks",
+        "value": 570778684,
+        "length": 1
+    },
+    {
+        "name": "Coin Socks",
+        "value": 570778685,
+        "length": 1
+    },
+    {
+        "name": "Starched Socks",
+        "value": 570778686,
+        "length": 1
+    },
+    {
+        "name": "Gumption Socks",
+        "value": 570778687,
+        "length": 1
+    },
+    {
+        "name": "Bro Socks",
+        "value": 570778688,
+        "length": 1
+    },
+    {
+        "name": "Gall Socks",
+        "value": 570778689,
+        "length": 1
+    },
+    {
+        "name": "Rugged Socks",
+        "value": 570778690,
+        "length": 1
+    },
+    {
+        "name": "EXP Socks",
+        "value": 570778691,
+        "length": 1
+    },
+    {
+        "name": "No-Touch Socks",
+        "value": 570778692,
+        "length": 1
+    },
+    {
+        "name": "Nurse Socks",
+        "value": 570778693,
+        "length": 1
+    },
+    {
+        "name": "Doctor Socks",
+        "value": 570778694,
+        "length": 1
+    },
+    {
+        "name": "Special Socks",
+        "value": 570778695,
+        "length": 1
+    },
+    {
+        "name": "Surprising Socks",
+        "value": 570778696,
+        "length": 1
+    },
+    {
+        "name": "Guardian Socks",
+        "value": 570778697,
+        "length": 1
+    },
+    {
+        "name": "POW Gloves",
+        "value": 570778698,
+        "length": 1
+    },
+    {
+        "name": "DX POW Gloves",
+        "value": 570778699,
+        "length": 1
+    },
+    {
+        "name": "Mushroom Gloves",
+        "value": 570778700,
+        "length": 1
+    },
+    {
+        "name": "Special Gloves",
+        "value": 570778701,
+        "length": 1
+    },
+    {
+        "name": "Heavy Gloves",
+        "value": 570778702,
+        "length": 1
+    },
+    {
+        "name": "Delicious Gloves",
+        "value": 570778703,
+        "length": 1
+    },
+    {
+        "name": "Flower Gloves",
+        "value": 570778704,
+        "length": 1
+    },
+    {
+        "name": "Coins",
+        "value": 302343168,
+        "length": 2
+    }
+]
